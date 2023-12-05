@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BipartiteMatrixCalculator=react/static/css/main.d80903d9.css",
+    "main.js": "/BipartiteMatrixCalculator=react/static/js/main.32fdde14.js",
+    "static/js/496.5cc3c4c2.chunk.js": "/BipartiteMatrixCalculator=react/static/js/496.5cc3c4c2.chunk.js",
+    "index.html": "/BipartiteMatrixCalculator=react/index.html",
+    "main.d80903d9.css.map": "/BipartiteMatrixCalculator=react/static/css/main.d80903d9.css.map",
+    "main.32fdde14.js.map": "/BipartiteMatrixCalculator=react/static/js/main.32fdde14.js.map",
+    "496.5cc3c4c2.chunk.js.map": "/BipartiteMatrixCalculator=react/static/js/496.5cc3c4c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d80903d9.css",
+    "static/js/main.32fdde14.js"
+  ]
+}
